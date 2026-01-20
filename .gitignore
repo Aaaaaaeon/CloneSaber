@@ -1,0 +1,30 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# Crashlytics
+crashlytics-build.properties
+
+# OS
+.DS_Store
+Thumbs.db

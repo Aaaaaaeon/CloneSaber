@@ -1,0 +1,27 @@
+{
+    "songName": "Tuto",
+    "bpm": 125,
+    "startOffset": 0,    "notes": [
+
+        { "beat": 8.5,    "x": 2, "y": 1, "color": "red", "direction": "down" },
+        { "beat": 16.5,    "x": 1, "y": 1, "color": "blue", "direction": "down" },
+        { "beat": 24.5,    "x": 3, "y": 1, "color": "red", "direction": "left" },
+        { "beat": 32.5,    "x": 0, "y": 1, "color": "blue", "direction": "right" },
+        { "beat": 40.5,    "x": 2, "y": 2, "color": "red", "direction": "up" },
+        { "beat": 48.5,    "x": 1, "y": 2, "color": "blue", "direction": "up" },
+        { "beat": 56.5,    "x": 2, "y": 1, "color": "red", "direction": "down" },
+        { "beat": 56.5,    "x": 1, "y": 1, "color": "blue", "direction": "down" },
+        { "beat": 64.5,    "x": 2, "y": 2, "color": "red", "direction": "up" },
+        { "beat": 64.5,    "x": 1, "y": 2, "color": "blue", "direction": "up" },
+        { "beat": 72.5,    "x": 2, "y": 2, "color": "red", "direction": "up" },
+        { "beat": 72.5,    "x": 1, "y": 0, "color": "blue", "direction": "down" },
+        { "beat": 80.5,    "x": 2, "y": 0, "color": "red", "direction": "down" },
+        { "beat": 80.5,    "x": 1, "y": 2, "color": "blue", "direction": "up" },
+        { "beat": 88.5,    "x": 2, "y": 2, "color": "red", "direction": "up" },
+        { "beat": 88.5,    "x": 1, "y": 0, "color": "blue", "direction": "down" },
+        { "beat": 96.5,    "x": 2, "y": 0, "color": "red", "direction": "down" },
+        { "beat": 96.5,    "x": 1, "y": 2, "color": "blue", "direction": "up" }
+
+    
+    ]
+}
