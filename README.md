@@ -24,8 +24,10 @@ Clone Saber is a fully functional VR rhythm game where players slice colored cub
 - Meta Quest 3 headset
 - Oculus Integration SDK
 - Android Build Support module
-
 ---
+
+## Preview
+https://www.youtube.com/watch?v=HXY6VPtsjCA
 
 ## Features
 
